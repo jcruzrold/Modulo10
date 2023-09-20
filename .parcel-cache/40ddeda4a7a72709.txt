@@ -1,0 +1,12 @@
+11
+84/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/dist/index.975ef6c8.js.map1695229237129716301 0
+80/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/dist/index.975ef6c8.js1695229237129716301 0
+69/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/src/data.js1695229044214584000 0
+70/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/src/index.js1695229045558476000 0
+70/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/src/utils.js1695229042350733000 0
+61/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/src1695013099304449000 1
+70/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/package.json1695229231794206197 0
+62/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/dist1695229237129716301 1
+68/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/index.html1695229048210263000 0
+73/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab/dist/index.html1695229237065722182 0
+57/home/jcr/Formación/Bootcamp js/Módulo10/Ejercicios/lab1695229237053723284 1
